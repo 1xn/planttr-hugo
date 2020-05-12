@@ -2,7 +2,7 @@
 baseURL = "https://Planttr.com.org"
 languageCode = "en-us"
 title = "PLANT&PLANT"
-theme = "parsa-hugo"
+theme = "planttr-hugo"
 summaryLength = "10"
 paginate = 9
 enableEmoji = true
