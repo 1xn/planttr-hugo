@@ -122,9 +122,8 @@ author = "Klaoe"
 author_image = "images/banner-img.png"
 bio = "A plant-based recipes database by Klaoe."
 # Contact info
-mobile = "+90 666 333 22"
-email = "example@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+email = "hello@planttr.com"
+address = "planttr.com"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
