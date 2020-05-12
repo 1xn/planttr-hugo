@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <a href="{{.Site.BaseURL}}"><img src="{{.Site.Params.logo | absURL }}" alt="{{.Site.Title}}" class="img-fluid"></a>
+          <a href="{{.Site.BaseURL}}"><h4>Planttr</h4></a>
            <ul class="list-unstyled">
             <li class="text-dark">{{.Site.Params.description | markdownify }}</li>
           </ul>
@@ -13,10 +13,9 @@
         
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Contact Info</h6>
+          <h6>Contacto</h6>
           <ul class="list-unstyled">
-            <li class="font-secondary text-dark">Tel : {{ .Site.Params.mobile | markdownify }}</li>
-            <li class="font-secondary text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
+            <li class="text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
           </ul>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
@@ -31,7 +30,7 @@
     </div>
   </div>
   <div class="text-center pb-3">
-    <p class="mb-0">{{ .Site.Params.copyright | markdownify }} Klaoe, All rights reserved · Made by 1XN · Last build <i class="ti-package"> {{ now.Format "Monday, January 2, 2006 at 15:04 PM" }}</i></p>
+    <p class="mb-0">{{ .Site.Params.copyright | markdownify }} Klaoe, All rights reserved · Made by 1XN · Built on <i class="ti-package"> {{ now.Format "Monday, January 2, 2006 at 15:04 PM" }}</i></p>
   </div>
 </footer>
 
