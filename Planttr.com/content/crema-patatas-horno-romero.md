@@ -13,8 +13,8 @@ cookTime: 50
 totalTime: 45
 categories: sopa
 tags:
-  - "acelgas"
-  - "pecanas"
+  - "patatas"
+  - "romero"
 ingredients:
 - 6 patatas medianas
 - 4 zanahorias
