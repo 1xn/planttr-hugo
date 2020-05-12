@@ -1,3 +1,128 @@
+img.recipe {
+  vertical-align: middle;
+  border: 0;
+  border-radius: 24px;
+}
+
+.recipeItems {
+  ul {
+      margin:0; 
+      padding:10; 
+      list-style:none;
+  }
+  ul li {  
+    padding:0 0 0 250px; 
+    position:relative; 
+    margin-top: 0rem;
+  }
+}
+
+.ingredient {
+
+margin-bottom: 5px !important;
+list-style-type: square;
+
+}
+
+.directions {
+
+margin-bottom: 5px !important;
+list-style-type: decimal;
+
+}
+
+.checkbox-container {
+  display: flex;
+  flex-flow: row nowrap;
+  padding-bottom: 0rem;
+}
+
+/* Styling Checkbox Starts */
+.checkbox-label {
+    display: block;
+    position: relative;
+    margin: 0 1rem 0 0;
+    cursor: pointer;
+    line-height: 28px;
+    min-height: 28px;
+    min-width: 28px;
+    height: 28px;
+    width: 28px;
+    clear: both;
+    float: left;
+}
+
+.checkbox-label input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+.checkbox-label .checkbox-custom {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 24px;
+    width: 24px;
+    border-radius: 5px;
+    border: 4px solid $blue;
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+}
+
+
+.checkbox-label input:checked ~ .checkbox-custom {
+    background-color: $white;
+    border-radius: 5px;
+    border: 2px solid $blue;
+    -webkit-transform: rotate(0deg) scale(1);
+    -ms-transform: rotate(0deg) scale(1);
+    transform: rotate(0deg) scale(1);
+    opacity:1;
+}
+
+
+.checkbox-label .checkbox-custom::after {
+    position: absolute;
+    content: "";
+    left: 12px;
+    top: 12px;
+    height: 0px;
+    width: 0px;
+    border-radius: 5px;
+    border: solid $blue;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(0deg) scale(0);
+    -ms-transform: rotate(0deg) scale(0);
+    transform: rotate(0deg) scale(0);
+    opacity:1;
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+}
+
+
+.checkbox-label input:checked ~ .checkbox-custom::after {
+  -webkit-transform: rotate(45deg) scale(1);
+  -ms-transform: rotate(45deg) scale(1);
+  transform: rotate(45deg) scale(1);
+  opacity:1;
+  left: 8px;
+  top: 2px;
+  width: 6px;
+  height: 12px;
+  border: solid $blue;
+  border-width: 0 3px 3px 0;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+
+
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
@@ -8,10 +133,9 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 @font-face {
-  font-family: 'hanskendrick';
-  src: url("../fonts/hanskendrick-regular-webfont.woff") format("woff");
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-display: swap;
 }
@@ -20,21 +144,21 @@ body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 20px;
   color: #585757;
 }
 
 p, .paragraph {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #000000;
-  font-family: "hanskendrick";
-  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
   line-height: 1.2;
 }
 
@@ -98,13 +222,13 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #ff6f00;
+  background: #009f6f;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #ff6f00 !important;
+  background: #009f6f !important;
 }
 
 .btn-primary:hover {
@@ -129,7 +253,7 @@ h6, .h6 {
 }
 
 .btn-transparent {
-  color: #ff6f00;
+  color: #009f6f;
   border: 0;
 }
 
@@ -243,6 +367,7 @@ img {
   vertical-align: middle;
   border: 0;
 }
+
 
 a,
 a:hover,
@@ -530,6 +655,7 @@ textarea.form-control {
   width: 100%;
   top: 0;
   left: 0;
+
 }
 
 .card-content {
@@ -538,6 +664,7 @@ textarea.form-control {
   left: 0;
   right: 0;
   bottom: 30px;
+
 }
 
 .title-border {
@@ -814,6 +941,7 @@ blockquote {
 .content img{
   max-width: 100%;
   height: auto;
+  margin-top: 20px;
 }
 
 .widget {
