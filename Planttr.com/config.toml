@@ -68,15 +68,6 @@ URL = "categories/plato-principal"
 parent ="Recetas"
 weight = 3
 
-[[menu.main]]
-name = "INFO"
-URL = "about"
-weight = 2
-
-[[menu.main]]
-name = "Contacto"
-URL = "contact"
-weight = 3
 
 [[menu.main]]
 name = "guia vegana"
