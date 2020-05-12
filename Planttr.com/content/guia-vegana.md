@@ -10,8 +10,8 @@ tags: guía
 ---
 
 En esta guía podrás encontrar todo aquello que te genera alguna duda sobre el veganismo. Aquí te familiarizarás con terminos muy comunes en el entorno de las personas que siguen la filosofía vegana. 
-- ###Açai. 
-- ###Betacaroteno.
+###Açai. 
+###Betacaroteno.
 - ###Maca.
 - ###Spirulina.
 - ###Reishi.
