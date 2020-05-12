@@ -13,8 +13,8 @@ cookTime: 0
 totalTime: 15
 categories: ensalada
 tags:
-  - "acelgas"
-  - "pecanas"
+  - "lechuga"
+  - "feta"
 ingredients:
 - 1 lechuga romana 
 - 2 tomates pera

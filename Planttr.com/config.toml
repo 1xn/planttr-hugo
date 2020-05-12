@@ -2,7 +2,7 @@
 baseURL = "https://planttr.netlify.app"
 languageCode = "en-us"
 title = "PLANTTR"
-theme = "parsa-hugo"
+theme = "planttr-hugo"
 summaryLength = "10"
 paginate = 9
 enableEmoji = true

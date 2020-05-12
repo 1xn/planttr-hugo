@@ -5,7 +5,8 @@ description: "Guía vegana"
 type: "featured"
 image: "images/featured-post/guia-vegana.jpg"
 suitableForDiet: VeganDiet
-tags: guía vegana
+tags: guía
 
 ---
 
+Prueba guia vegana
