@@ -1,13 +1,8 @@
 # default config
 baseURL = "https://planttr.netlify.app"
 languageCode = "en-us"
-<<<<<<< HEAD
-title = "PLANT&PLANT"
-theme = "planttr-hugo"
-=======
 title = "PLANTTR"
-theme = "parsa-hugo"
->>>>>>> 617f470200e6484dbeb944a8479b8a6d02d52bd3
+theme = "planttr-hugo"
 summaryLength = "10"
 paginate = 9
 enableEmoji = true
