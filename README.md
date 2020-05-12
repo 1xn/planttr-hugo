@@ -1,4 +1,8 @@
-# Easy Setup (Hugo + Netlify + Forestry)
+# Planttr-Hugo
+
+Based on Parsa-Hugo. Made for a recipes site.
+
+### Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
 
 <a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
@@ -26,29 +30,6 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 
 > If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/parsa-hugo/issues)
 
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Installation](#installation)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
-
-
-## Demo
-
-| ![](https://user-images.githubusercontent.com/37659754/58609653-2c50ac80-82ca-11e9-9f42-887141a0f6dd.png) | ![](https://user-images.githubusercontent.com/37659754/58609715-7043b180-82ca-11e9-9225-dfc9d255f516.png) | ![](https://user-images.githubusercontent.com/37659754/58609747-894c6280-82ca-11e9-9253-d1256af4aad9.png) | ![](https://user-images.githubusercontent.com/37659754/58609762-9cf7c900-82ca-11e9-9956-53e6a3b65636.png) | ![](https://user-images.githubusercontent.com/37659754/58609777-ac771200-82ca-11e9-9814-9e1fc7404b91.png) |
-|---|---|---|---|---|
-| Homepage  | Homepage 2  | Single  | About  | Contact  |
-
-
-**The images are only for demonstration purpose, Please don't use those images.**
-
-[Live Preview](http://demo.themefisher.com/parsa-hugo/).
-
-
 ## Installation
 At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
 
@@ -72,14 +53,3 @@ If you have questions or need help integrating the product please [contact us](m
 - Copyright 2019 Themefisher (https://themefisher.com/)
 - Licensed under MIT (https://github.com/themefisher/parsa-hugo/blob/master/LICENSE)
 
-## Premium Themes
-
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![galaxy](https://gethugothemes.com/wp-content/uploads/edd/2020/04/galaxy.png)](https://gethugothemes.com/products/galaxy/) | [![logbook](https://gethugothemes.com/wp-content/uploads/edd/2020/03/logbook-hugo.jpg)](https://gethugothemes.com/products/logbook-hugo/) |
-|:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Galaxy**  | **LogBook**  |
-| [![gojournal](https://gethugothemes.com/wp-content/uploads/edd/2020/04/GoJournal-hugo.png)](https://gethugothemes.com/products/gojournal-hugo/) | [![gofolium](https://gethugothemes.com/wp-content/uploads/2020/03/gofolium.png)](https://gethugothemes.com/products/gofolium-hugo/) | [![biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) |
-| **GoJournal** | **GoFolium** | **Biztrox** |
-| [![northendlab](https://gethugothemes.com/wp-content/uploads/2019/11/Blogplate-Blog-Template.png)](https://gethugothemes.com/products/northendlab/) | [![Liva](https://gethugothemes.com/wp-content/uploads/edd/2019/11/liva.png)](https://gethugothemes.com/products/liva-hugo/) | [![Kross](https://gethugothemes.com/wp-content/uploads/edd/2019/07/kross-portfolio-template.jpg)](https://gethugothemes.com/products/kross-hugo-theme/) |
-| **Northendlab** | **Liva** | **Kross** |
-| [![revolve](https://gethugothemes.com/wp-content/uploads/edd/2019/11/revolve.jpg)](https://gethugothemes.com/products/revolve-hugo/) | [![Phantom](https://gethugothemes.com/wp-content/uploads/edd/2019/06/Phantom.jpg)](https://gethugothemes.com/products/phantom-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Revolve** | **Phantom** | **More Hugo Themes** |
