@@ -11,9 +11,7 @@ yield: 20 bolitas
 prepTime: 20
 cookTime: 60
 totalTime: 80
-tags:
-  - "croquetas"
-  - "medio-oriente"
+tags: garbanzos
 ingredients:
 - garbanzos
 directions:

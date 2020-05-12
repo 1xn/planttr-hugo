@@ -11,9 +11,7 @@ yield: 2 porciones
 prepTime: 20
 cookTime: 60
 totalTime: 80
-tags:
-  - "coles"
-  - "alemania"
+tags: coles
 ingredients:
 - 150 g de col morada
 - 4 hojas de col verde enteras

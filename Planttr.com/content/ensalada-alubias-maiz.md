@@ -14,7 +14,6 @@ totalTime: 80
 tags:
   - "alubias"
   - "arroz"
-
 ingredients:
 - 100 g arroz cocido
 - 100 g alubias negras cocidas
