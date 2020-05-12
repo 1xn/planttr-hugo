@@ -7,7 +7,7 @@ image: "images/recipes/falafel-remolacha-2.jpg"
 cuisine: Arabe
 suitableForDiet: VeganDiet
 categories: plato principal
-yield: 2 porciones
+yield: 20 bolitas
 prepTime: 20
 cookTime: 60
 totalTime: 80
