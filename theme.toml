@@ -1,12 +1,12 @@
-name = "Parsa Hugo"
+name = "planttr-hugo"
 license = "MIT"
-licenselink = "https://github.com/themefisher/parsa-hugo/blob/master/LICENSE"
-description = "Hugo port of the Themefisher’s Parsa Template"
+licenselink = "https://github.com/1xn/planttr-hugo/blob/master/LICENSE"
+description = "Planttr recipes site based on Hugo port of the Themefisher’s Parsa Template"
 homepage = "https://gethugothemes.com/products/parsa-hugo-theme/"
 tags = ['landing-page', 'fast', 'light', 'white', 'modern', 'themefisher', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'clean', 'simple', 'creative', 'contact-form', 'custom-themes', 'mobile', 'minimalistic', 'pages', 'resume', 'portfolio', 'google analytics', 'customizable', 'flexbox', 'presentation', 'product', 'theme', 'typography']
 features = ['bootstrap','responsive']
 min_version = "0.62.2"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "1xN"
+  homepage = "https://1xN.org/"
