@@ -51,6 +51,12 @@ URL = "Recetas"
 weight = 1
 
 [[menu.main]]
+name = "Finger Food"
+URL = "categories/finger-food"
+parent ="Recetas"
+weight = 0
+
+[[menu.main]]
 name = "Snacks"
 URL = "categories/snack"
 parent ="Recetas"
@@ -63,11 +69,36 @@ parent ="Recetas"
 weight = 2
 
 [[menu.main]]
-name = "Plato Principal"
-URL = "categories/plato-principal"
+name = "Sopas"
+URL = "categories/sopa"
 parent ="Recetas"
 weight = 3
 
+[[menu.main]]
+name = "Platos Principales"
+URL = "categories/plato-principal"
+parent ="Recetas"
+weight = 4
+
+[[menu.main]]
+name = "Segundos"
+URL = "categories/segundos"
+parent ="Recetas"
+weight = 5
+
+[[menu.main]]
+name = "Guarniciones"
+URL = "categories/guarnición"
+parent ="Recetas"
+weight = 6
+
+
+
+[[menu.main]]
+name = "Postres"
+URL = "categories/postre"
+parent ="Recetas"
+weight = 7
 
 [[menu.main]]
 name = "guia vegana"
