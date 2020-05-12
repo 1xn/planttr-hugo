@@ -4,14 +4,14 @@ date: 2020-05-12T14:46:10+06:00
 description: "Ensalada de lazos de zanahoria con fruta y sésamo negro"
 type: "recipe"
 image: "images/recipes/ensalada-lazos-zanahoria-sesamo.png"
-cuisine: Internacional
+cuisine: crudivegana
 suitableForDiet: VeganDiet
 yield: 4 porciones
 prepTime: 30
 cookTime: 50
 totalTime: 45
 categories: ensalada
-tags: carne vegetal
+tags: zanahorias
 ingredients:
 - 1 zanahoria
 - 1 kiwi

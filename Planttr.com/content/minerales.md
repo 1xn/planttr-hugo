@@ -5,6 +5,10 @@ description: "Minerales"
 type: "featured"
 image: "images/featured-post/minerales-alimentacion-vegana.jpg"
 suitableForDiet: VeganDiet
+<<<<<<< HEAD
+=======
+
+>>>>>>> 617f470200e6484dbeb944a8479b8a6d02d52bd3
 tags: minerales
   
 ---
