@@ -659,11 +659,11 @@ textarea.form-control {
 }
 
 .card-content {
-  padding: 30px;
+  padding: 10px;
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 30px;
+  bottom: 10px;
 
 }
 
