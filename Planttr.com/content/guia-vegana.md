@@ -8,9 +8,5 @@ suitableForDiet: VeganDiet
 tags: guía
 
 ---
-=======
-tags: guía vegana
-
----
 
 Prueba guia vegana
