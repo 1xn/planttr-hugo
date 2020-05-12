@@ -1,13 +1,13 @@
 ---
-title: "Ensalada de acelgas con vinagreta de tahini, anacardos y limas"
+title: "Tartaleta de spirulina con arándanos y granadas"
 date: 2020-05-07T14:46:10+06:00
-description: "Ensalada de acelgas con vinagreta de tahini, anacardos y limas"
+description: "Tartaleta de spirulina con arándanos y granadas"
 type: "recipe"
-image: "images/recipes/acelgas-vinagreta-tahini-anacardos-limas.png"
-cuisine: Raw food
+image: "images/recipes/spirulina-raw-cake.jpg"
+cuisine: Crudivegana
 suitableForDiet: VeganDiet
-categories: ensalada
-yield: 2 porciones
+categories: postre
+yield: 2 tartaletas
 prepTime: 20
 cookTime: 60
 totalTime: 80
@@ -15,13 +15,15 @@ tags:
   - "spirulina"
   - "raw-cake"
 ingredients:
-- 150g Anacardos remojados
-- 6 Dátiles remojados
-- 1 cda Espirulina en polvo
-- 4 cdas Puré de manzana 
-- 1 Zumo de limón
-- 1 Zumo de naranja
-- 4 cdas Aceite de coco
+- 150g anacardos remojados
+- 6 dátiles remojados
+- 1 cda spirulina en polvo
+- 4 cdas puré de manzana 
+- 1 zumo de limón
+- 1 zumo de naranja
+- 4 cdas aceite de coco
+- 1/4 granada
+- 10 arándanos
 - Pizca de sal
 directions:
 - Remoja los anacardos y los dátiles al menos durante unas 8 horas. 
