@@ -6,7 +6,7 @@ type: "recipe"
 image: "images/recipes/col-enrollada.png"
 cuisine: Alemana
 suitableForDiet: VeganDiet
-categories: postre
+categories: plato principal
 yield: 2 porciones
 prepTime: 20
 cookTime: 60
