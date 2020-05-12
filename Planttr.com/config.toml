@@ -1,7 +1,7 @@
 # default config
-baseURL = "https://Planttr.com.org"
+baseURL = "https://planttr.netlify.app"
 languageCode = "en-us"
-title = "PLANT&PLANT"
+title = "PLANTTR"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 9
