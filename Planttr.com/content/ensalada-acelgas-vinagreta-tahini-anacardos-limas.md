@@ -12,8 +12,8 @@ prepTime: 20
 cookTime: 60
 totalTime: 80
 tags:
-  - "alubias"
-  - "arroz"
+  - "acelgas"
+  - "tahini"
 ingredients:
 - 1 manojo de acelgas
 - 1/2 pimiento amarillo
