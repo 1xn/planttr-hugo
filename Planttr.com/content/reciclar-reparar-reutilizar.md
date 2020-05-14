@@ -8,7 +8,7 @@ suitableForDiet: VeganDiet
 tags: 3R
 
 ---
-En la epoca historica que estamos viviendo debemos ser muy concientes que cada decisión que tomamos a la hora de comprar, afectará nuestro entorno de una manera u otra. Vivímos en una sociedad que invita constantemente a comprar algo, porque lo necesitamos, porque nos vamos a ver más atractivas, porque nos hará más cool. Pero en realidad esas cosas terminarán a la basura cuando, mucho más temprano que tarde, nos daremos cuenta que muchas de las compras que hacemos están hechas bajo instintos impulsivos, que no nos permiten pensar adecuadamente.  
+En la epoca historica que estamos viviendo debemos ser muy concientes que cada decisión que tomamos a la hora de comprar, afectará nuestro entorno de una manera u otra. Vivímos en una sociedad que invita constantemente a comprar algo, porque lo necesitamos, porque nos vamos a ver más atractivas, porque nos hará más cool. Pero en realidad esas cosas terminarán a la basura cuando, mucho más temprano que tarde, nos daremos cuenta que la mayoría de las compras que hacemos están hechas bajo instintos impulsivos, que no nos permiten pensar adecuadamente.  
 
 Adquirir cosas que nos puedan ayudar o facilitar en nuestras labores díarias, es obviamente algo al que el ser humano debe recurrir como recurso. Pero hoy día, debido a que todo se maneja a golpes de marketing, tendemos a confudir lo que realmente necesitamos y lo que realmente no.   
 
