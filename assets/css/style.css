@@ -1,3 +1,11 @@
+
+/* CUSTOM COLORS */
+.azul { background-color: #26547c; color:white}
+.rosa { background-color: #ef476f; color:white}
+.amarillo { background-color: #ffd166; color:black}
+.verde { background-color: #06d6a0; color:white; }
+.blanco { background-color: #fcfcfc; color:black}
+
 img.recipe {
   vertical-align: middle;
   border: 0;
@@ -475,7 +483,7 @@ a.text-dark:hover {
 }
 
 .font-secondary {
-  font-family: "hanskendrick" !important;
+ 
 }
 
 .mb-10 {
@@ -786,10 +794,10 @@ textarea.form-control {
   opacity: 1;
 }
 
-/* homepage 2 */
+/* homepage 2 -- background-image: linear-gradient(#fff 45%, #fdefe6 0); */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
+  
 }
 
 .dividers {
@@ -927,11 +935,14 @@ textarea.form-control {
 }
 
 blockquote {
-  font-style: italic;
+  font-style: normal; 
   color: #000000;
-  background: #fdefe6;
+  background: white;
   padding: 20px;
   font-weight: 600;
+  font-size: 42px;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
 }
 
 .content * {

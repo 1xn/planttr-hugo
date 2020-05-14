@@ -8,4 +8,4 @@ suitableForDiet: VeganDiet
 tags: vitaminas
   
 ---
-Las vitaminas se dividen en dos tipos las ### liposolubles y las ### hidrosolubles.
+Las vitaminas se dividen en dos tipos las **liposolubles** y las **hidrosolubles**.

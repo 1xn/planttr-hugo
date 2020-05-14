@@ -1,11 +1,11 @@
-<footer class="bg-secondary">
+<footer class="azul text-white">
   <div class="section">
     <div class="container">
       <div class="row">
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <a href="{{.Site.BaseURL}}"><h4>Planttr</h4></a>
            <ul class="list-unstyled">
-            <li class="text-dark">{{.Site.Params.description | markdownify }}</li>
+            <li class="text-white">{{.Site.Params.description | markdownify }}</li>
           </ul>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
@@ -15,14 +15,14 @@
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Contacto</h6>
           <ul class="list-unstyled">
-            <li class="text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
+            <li class="text-white">Email : {{ .Site.Params.email | markdownify }}</li>
           </ul>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Follow</h6>
           <ul class="list-inline d-inline-block">
             {{ range .Site.Params.social }}
-            <li class="list-inline-item"><a href="{{ .URL }}" class="text-dark"><i class="{{ .icon }}"></i></a></li>
+            <li class="list-inline-item"><a href="{{ .URL }}" class="text-white"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
           </ul>
         </div>
