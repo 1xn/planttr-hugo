@@ -10,7 +10,7 @@ yield: 4 porciones
 prepTime: 30
 cookTime: 15
 totalTime: 45
-categories: tapas
+categories: tapa
 tags:
   - "patatas"
   - "maíz"

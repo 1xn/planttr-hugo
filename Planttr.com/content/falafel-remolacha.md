@@ -6,12 +6,14 @@ type: "recipe"
 image: "images/recipes/falafel-remolacha-2.jpg"
 cuisine: Arabe
 suitableForDiet: VeganDiet
-categories: plato principal
+categories: tapa
 yield: 20 bolitas
 prepTime: 20
 cookTime: 60
 totalTime: 80
-tags: garbanzos
+tags: 
+- "garbanzos"
+- "remolacha"
 ingredients:
 - garbanzos
 directions:

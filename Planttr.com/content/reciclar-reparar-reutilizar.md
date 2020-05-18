@@ -17,7 +17,7 @@ Estas son las 3R y deberían ser la constante filosófica, un mantra a seguir, e
  
 Estamos rodeados por una sociedad que nos comunica constantemente, a través de los medios de comunicación, las redes sociales y mensajes subliminales y no tanto, en películas o series, un sin fin de productos que, supuestamente, nos convertirán en eso que tanto queremos ser o nos proporcionarán aquello que tanto anhelamos tener, en vez de comunicarnos el respeto por nuestro entorno y la protección de por los recursos limitados que tenemos.
 
-> **¿Para qué sirve una buena casa si no tienes un planeta tolerable en el que ponerla?"** H.D. Thoureau
+> **"¿Para qué sirve una buena casa si no tienes un planeta tolerable en el que ponerla?"** H.D. Thoureau
 
 De este paso necesitaríamos más de 2 planetas tierra para poder solventar nuestras necesidades como seres humanos ya que el ritmo de vida desenfrenado que llevamos actualmente solo agiliza el proceso de agotamiento de los recursos disponibles en nuestro planeta.
 

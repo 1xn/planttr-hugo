@@ -10,7 +10,7 @@ yield: 2 porciones
 prepTime: 30
 cookTime: 15
 totalTime: 45
-categories: plato principal
+categories: guarnición
 tags:
   - "patatas"
   - "guisantes"
