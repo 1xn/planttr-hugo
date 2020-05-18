@@ -41,7 +41,10 @@ Fruto de la palmera de açai (Euterpe oleracea), se les atribuyen propiedades an
 - ##### Maca
 - ##### Matcha
 - ##### Papaya
+El consumo de esta fruta originaria de los paises de America central, es gran fuente de fibra, favorece la digestión y reduce el nivel del colesterol malo. Contiene vitaminas del grupo B (B1, B2 y B3), vitamina C, vitamina A y vitamina D.
+Contiene minerales como el sodio, potasio, calcio, magnesio, fósforo, hierro, zinc y yodo.
 - ##### Perejíl
+
 - ##### Physalis
 Pequeña baya de alto contenido en fibra, vitamina A y conocida por su excelente y alto contenido de caroteno y vitamina C, y su bajo nivel de calorías. Rico en minerales, especialmente calcio, hierro y fósforo; contiene niveles importantes de proteína. Fortalece el sistema inmunitario y la visión, además de funcionar como antioxidante.
 - ##### Quinoa
