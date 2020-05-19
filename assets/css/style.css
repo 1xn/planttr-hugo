@@ -5,12 +5,15 @@
 .amarillo { background-color: #ffd166; color:black}
 .verde { background-color: #06d6a0; color:white; }
 .blanco { background-color: #fcfcfc; color:black}
-
+.negro { background-color: #0c0c0c; color:white}
+a.blanco{color:red}
 img.recipe {
   vertical-align: middle;
   border: 0;
   border-radius: 24px;
 }
+
+.imagecredit {font-size: 12px;}
 
 .recipeItems {
   ul {

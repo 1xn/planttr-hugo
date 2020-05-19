@@ -28,6 +28,15 @@
         <div class="spacer"></div>
         <article class="content">
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded  mr-5 mb-4">
+          
+          <!--if imagecredit exists display imagecredit
+            else display nothing-->
+
+          {{if isset .Params "imagecredit" }}
+          <div class="imagecredit">Photo credit: {{ .Params.imagecredit }}</div>
+          {{ else }} <div class="imagecredit"></div>
+          {{ end }}
+
           <div itemprop="description">{{.Content}}</div>
 
           {{ if eq .Params.type "recipe" }}
