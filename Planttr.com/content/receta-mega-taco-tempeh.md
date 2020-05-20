@@ -4,6 +4,7 @@ date: 2020-05-06T14:46:10+06:00
 description: "Mega taco de tempeh"
 type: "recipe"
 image: "images/recipes/mega-taco-tempeh.png"
+imagecredit: klaoe
 cuisine: Mexicana
 suitableForDiet: VeganDiet
 yield: 4 porciones

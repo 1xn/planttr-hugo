@@ -4,6 +4,7 @@ date: 2020-05-12T14:46:10+06:00
 description: "Estofado de seitán con patatas y kale"
 type: "recipe"
 image: "images/recipes/estofado-de-seitan-patatas-kale.png"
+imagecredit: klaoe
 cuisine: Campestre
 suitableForDiet: VeganDiet
 yield: 2 porciones

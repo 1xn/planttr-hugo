@@ -4,6 +4,7 @@ date: 2020-05-09T14:46:10+06:00
 description: "Noodles de arroz con gambas vegetales y verduras crujientes"
 type: "recipe"
 image: "images/recipes/noodles-verduras-gambas-vegetales.jpg"
+imagecredit: klaoe
 cuisine: Internacional
 yield: 2 porciones
 prepTime: 15

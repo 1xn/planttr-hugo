@@ -4,6 +4,7 @@ date: 2020-05-07T14:46:10+06:00
 description: "Ensalada de acelgas con vinagreta de tahini, anacardos y limas"
 type: "recipe"
 image: "images/recipes/acelgas-vinagreta-tahini-anacardos-limas.png"
+imagecredit: klaoe
 cuisine: Raw food
 suitableForDiet: VeganDiet
 categories: ensalada

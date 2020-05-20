@@ -4,6 +4,7 @@ date: 2020-05-09T14:46:10+06:00
 description: "Croquetas veganas de champiñones"
 type: "recipe"
 image: "images/recipes/croquetas-veganas-champiñones.jpg"
+imagecredit: klaoe
 cuisine: Española
 suitableForDiet: VeganDiet
 categories: finger food

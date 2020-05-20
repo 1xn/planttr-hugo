@@ -4,6 +4,7 @@ date: 2020-05-10T14:46:10+06:00
 description: "Smoothie Vitamina C"
 type: "recipe"
 image: "images/recipes/col-enrollada.png"
+imagecredit: klaoe
 cuisine: Internacional
 suitableForDiet: VeganDiet
 categories: bebidas

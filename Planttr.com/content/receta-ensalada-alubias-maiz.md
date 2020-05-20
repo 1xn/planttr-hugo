@@ -4,6 +4,7 @@ date: 2020-05-09T14:46:10+06:00
 description: "Ensalada de alubias"
 type: "recipe"
 image: "images/recipes/ensalada-alubias-maiz.jpeg"
+imagecredit: klaoe
 cuisine: Free Style
 suitableForDiet: VeganDiet
 categories: ensalada

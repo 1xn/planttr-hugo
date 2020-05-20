@@ -4,6 +4,7 @@ date: 2020-05-09T14:46:10+06:00
 description: "Dahl untable de lentejas rojas y coco"
 type: "recipe"
 image: "images/recipes/dahl-lentejas-rojas-coco.png"
+imagecredit: klaoe
 cuisine: India
 suitableForDiet: VeganDiet
 yield: 8 porciones

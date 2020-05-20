@@ -4,6 +4,7 @@ date: 2020-05-07T14:46:10+06:00
 description: "Ensalada mixta con queso feta vegano"
 type: "recipe"
 image: "images/recipes/ensalada-mixta-feta-vegano.png"
+imagecredit: klaoe
 cuisine: Free Style
 suitableForDiet: VeganDiet
 categories: ensalada

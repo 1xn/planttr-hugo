@@ -4,6 +4,7 @@ date: 2020-05-10T14:46:10+06:00
 description: "Frutas y verduras de temporada"
 type: "featured"
 image: "images/featured-post/frutas-verduras-temporada.jpg"
+imagecredit: "Pixabay / Pexels"
 cuisine: Free Style
 suitableForDiet: VeganDiet
 yield: 4 porciones

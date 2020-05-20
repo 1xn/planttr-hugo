@@ -4,6 +4,7 @@ date: 2020-05-09T14:46:10+06:00
 description: "Bolitas energéticas de coco, chili y sésamo"
 type: "recipe"
 image: "images/recipes/bolitas-energeticas-coco-chile-sesamo.jpg"
+imagecredit: klaoe
 cuisine: Internacional
 yield: 10 bolitas
 prepTime: 15

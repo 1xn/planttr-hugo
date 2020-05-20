@@ -4,6 +4,7 @@ date: 2020-05-12T14:46:10+06:00
 description: "Medallones de soja a la pizzaiola"
 type: "recipe"
 image: "images/recipes/medallones-soja-pizzaiola.png"
+imagecredit: klaoe
 cuisine: Italiana
 suitableForDiet: VeganDiet
 yield: 4 porciones

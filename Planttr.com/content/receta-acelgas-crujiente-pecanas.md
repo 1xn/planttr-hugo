@@ -4,6 +4,7 @@ date: 2020-05-09T14:46:10+06:00
 description: "Acelgas con crujiente de pecanas"
 type: "recipe"
 image: "images/recipes/acelgas-con-crujiente.png"
+imagecredit: klaoe
 cuisine: Free Style
 suitableForDiet: VeganDiet
 categories: Breakfast

@@ -4,6 +4,7 @@ date: 2020-05-13T14:46:10+06:00
 description: "Rollitos de col lombarda"
 type: "recipe"
 image: "images/recipes/rollitos-col-lombarda.nori.png"
+imagecredit: klaoe
 cuisine: Free Style
 suitableForDiet: VeganDiet
 categories: snack

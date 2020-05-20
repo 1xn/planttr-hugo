@@ -4,6 +4,7 @@ date: 2020-05-09T14:46:10+06:00
 description: "Coliflor morada con calabacines"
 type: "recipe"
 image: "images/recipes/coliflor-morada-calabacines.png"
+imagecredit: klaoe
 cuisine: Internacional
 yield: 6 porciones
 prepTime: 15

@@ -4,6 +4,7 @@ date: 2020-05-13T14:10:10+06:00
 description: "Ensaladilla de patatas con alioli y maíz"
 type: "recipe"
 image: "images/recipes/ensaladilla-patata-maiz-alioli.png"
+imagecredit: klaoe
 cuisine: Española
 suitableForDiet: VeganDiet
 yield: 4 porciones

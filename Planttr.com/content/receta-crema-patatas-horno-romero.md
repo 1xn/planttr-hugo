@@ -4,6 +4,7 @@ date: 2020-05-08T14:46:10+06:00
 description: "Crema de patatas al horno con romero"
 type: "recipe"
 image: "images/recipes/crema-patatas-horno-romero.png"
+imagecredit: klaoe
 cuisine: Free Style
 suitableForDiet: VeganDiet
 categories: Breakfast

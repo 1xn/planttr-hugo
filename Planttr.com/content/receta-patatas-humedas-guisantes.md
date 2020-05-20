@@ -4,6 +4,7 @@ date: 2020-05-13T14:46:10+06:00
 description: "Patatas húmedas con guisantes"
 type: "recipe"
 image: "images/recipes/patatas-humedas-guisantes.png"
+imagecredit: klaoe
 cuisine: Campestre
 suitableForDiet: VeganDiet
 yield: 2 porciones

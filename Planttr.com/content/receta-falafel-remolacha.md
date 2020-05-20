@@ -4,6 +4,7 @@ date: 2020-05-07T14:46:10+06:00
 description: "Falafel de remolacha"
 type: "recipe"
 image: "images/recipes/falafel-remolacha-2.jpg"
+imagecredit: klaoe
 cuisine: Arabe
 suitableForDiet: VeganDiet
 categories: tapa

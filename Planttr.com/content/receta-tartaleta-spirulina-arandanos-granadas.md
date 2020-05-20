@@ -4,6 +4,7 @@ date: 2020-05-12T14:46:10+06:00
 description: "Tartaleta de spirulina con arándanos y granadas"
 type: "recipe"
 image: "images/recipes/spirulina-raw-cake.jpg"
+imagecredit: klaoe
 cuisine: Crudivegana
 suitableForDiet: VeganDiet
 categories: postre
