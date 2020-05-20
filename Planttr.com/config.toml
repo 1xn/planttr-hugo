@@ -4,7 +4,7 @@ languageCode = "es-es"
 title = "PLANTTR"
 theme = "planttr-hugo"
 summaryLength = "10"
-paginate = 9
+paginate = 6
 enableEmoji = true
 
 # output
