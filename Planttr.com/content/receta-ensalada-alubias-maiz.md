@@ -7,7 +7,7 @@ image: "images/recipes/ensalada-alubias-maiz.jpeg"
 imagecredit: klaoe
 cuisine: Free Style
 suitableForDiet: VeganDiet
-categories: ensalada
+categories: ensaladas
 yield: 2 porciones
 prepTime: 20
 cookTime: 60

@@ -7,7 +7,7 @@ image: "images/recipes/ensalada-mixta-feta-vegano.png"
 imagecredit: klaoe
 cuisine: Free Style
 suitableForDiet: VeganDiet
-categories: ensalada
+categories: ensaladas
 yield: 4 porciones
 prepTime: 15
 cookTime: 0

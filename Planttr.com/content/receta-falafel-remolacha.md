@@ -7,7 +7,7 @@ image: "images/recipes/falafel-remolacha-2.jpg"
 imagecredit: klaoe
 cuisine: Arabe
 suitableForDiet: VeganDiet
-categories: tapa
+categories: tapas
 yield: 20 bolitas
 prepTime: 20
 cookTime: 60

@@ -11,7 +11,7 @@ yield: 4 porciones
 prepTime: 30
 cookTime: 50
 totalTime: 45
-categories: ensalada
+categories: ensaladas
 tags: zanahorias
 ingredients:
 - 1 zanahoria

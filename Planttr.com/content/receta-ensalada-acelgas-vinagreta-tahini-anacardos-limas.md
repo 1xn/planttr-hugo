@@ -7,7 +7,7 @@ image: "images/recipes/acelgas-vinagreta-tahini-anacardos-limas.png"
 imagecredit: klaoe
 cuisine: Raw food
 suitableForDiet: VeganDiet
-categories: ensalada
+categories: ensaladas
 yield: 2 porciones
 prepTime: 20
 cookTime: 60

@@ -7,7 +7,7 @@ image: "images/recipes/ensalada-coliflor-pesto.png"
 imagecredit: klaoe
 cuisine: Española
 suitableForDiet: VeganDiet
-categories: ensalada
+categories: ensaladas
 yield: 4 porciones
 prepTime: 20
 cookTime: 10

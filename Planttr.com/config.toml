@@ -7,6 +7,11 @@ summaryLength = "10"
 paginate = 6
 enableEmoji = true
 
+[taxonomies]
+category = "categories"
+tag =  "tags"
+cuisine = "cuisines"
+
 # output
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -46,50 +51,55 @@ link = "plugins/search/search.js"
 # navigation
 
 [[menu.main]]
-name = "Recetas"
+name = "Platos"
 URL = "Recetas"
+weight = 1
+
+[[menu.main]]
+name = "Recetario"
+URL = "categories"
 weight = 1
 
 [[menu.main]]
 name = "Finger Food"
 URL = "categories/finger-food"
-parent ="Recetas"
+parent ="Platos"
 weight = 0
 
 [[menu.main]]
 name = "Snacks"
 URL = "categories/snack"
-parent ="Recetas"
+parent ="Platos"
 weight = 1
 
 [[menu.main]]
 name = "Ensaladas"
 URL = "categories/ensalada"
-parent ="Recetas"
+parent ="Platos"
 weight = 2
 
 [[menu.main]]
 name = "Sopas"
 URL = "categories/sopa"
-parent ="Recetas"
+parent ="Platos"
 weight = 3
 
 [[menu.main]]
 name = "Platos Principales"
 URL = "categories/plato-principal"
-parent ="Recetas"
+parent ="Platos"
 weight = 4
 
 [[menu.main]]
 name = "Segundos"
 URL = "categories/segundos"
-parent ="Recetas"
+parent ="Platos"
 weight = 5
 
 [[menu.main]]
 name = "Guarniciones"
 URL = "categories/guarnición"
-parent ="Recetas"
+parent ="Platos"
 weight = 6
 
 
@@ -97,7 +107,7 @@ weight = 6
 [[menu.main]]
 name = "Postres"
 URL = "categories/postre"
-parent ="Recetas"
+parent ="Platos"
 weight = 7
 
 [[menu.main]]
