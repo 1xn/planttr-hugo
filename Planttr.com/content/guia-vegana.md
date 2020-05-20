@@ -10,16 +10,13 @@ tags: guía
 ---
 
 En esta guía podrás encontrar todo aquello que te genera alguna duda sobre el veganismo. Aquí te familiarizarás con terminos muy comunes en el entorno de las personas que siguen la filosofía vegana. 
-- ##### Açai. 
-Fruto de la palmera de açai (Euterpe oleracea), se les atribuyen propiedades antioxidantes. Originario de los bosques húmedos de America Latina, es un alimento que se consume desde epocas precolombinas. 
+
 - ##### Acquafaba.
 - ##### Activismo
 - ##### Antiespecismo.
 - ##### Betacaroteno.
 - ##### Brunch.
-- ##### Cacao.
 - ##### Carne vegetal.
-- ##### Chlorella.
 - ##### Crudivegana/o.
 - ##### Especismo.
 - ##### Fermentación.
@@ -32,20 +29,15 @@ Bebida fermentada a base de té con azúcar que se crea a partir de una colonia 
 - ##### Levadura nutricional.
 - ##### Low carb.
 Termino inglés 
-- ##### Lúcuma.
-- ##### Maca.
 - ##### Masa madre.
-- ##### Matcha.
 - ##### Natto.
 - ##### Peta.
 - ##### Raw Food.
-- ##### Reishi.
 - ##### Slow food.
 - ##### Smoothies.
 Batidos naturales de frutas, verduras y hortalizas. Se preparan con agua o con leches vegetales y se les suele añadir superalimentos.
 - ##### Soberanía alimentaria.
 - ##### Soja texturizada.
-- ##### Spirulina.
 - ##### Superalimentos.
 - ##### The Vegan Society.
 - ##### Tahini.

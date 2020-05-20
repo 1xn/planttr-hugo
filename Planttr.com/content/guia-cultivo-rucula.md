@@ -7,4 +7,4 @@ image: "images/featured-post/minerales-alimentacion-vegana.jpg"
 tags: lechuga
   
 ---
-Rúcula
+Guía para cultivar rúcula.

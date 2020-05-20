@@ -8,4 +8,4 @@ imagecredit: "Pixabay / J. Garget"
 tags: cultivo
   
 ---
-Que te llevarías a una isla desierta? Sin dudarlo, tomates!
+Guía para cultivar tomates.

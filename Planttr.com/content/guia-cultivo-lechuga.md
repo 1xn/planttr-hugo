@@ -8,4 +8,4 @@ tags: lechuga
 imagecredit: klaoe
 
 ---
-Las lechugas resultan de las verduras más faciles de cultivar.
+Guía para cultivar la lechuga.

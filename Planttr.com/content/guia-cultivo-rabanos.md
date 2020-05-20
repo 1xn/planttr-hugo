@@ -8,4 +8,4 @@ tags: cultivo
 imagecredit: "Pixabay / Rudy and Peter Skitterians"
   
 ---
-Los rábanos, con su sabor picante no gustan a todos.
+Guía para cultivar rábanos.
