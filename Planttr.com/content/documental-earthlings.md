@@ -11,5 +11,6 @@ tags: video
 
 Utilizando cámaras ocultas y grabaciones inéditas, Earthlings documenta las prácticas cotidianas de la industria internacional que explota los animales. El documental invita de manera explicita y mediante imagenes muy crudas y a la vez crueles, pero que transmiten lo que nuestros ojos no pueden ver, a una profunda reflexión sobre los usos innecesarios y la crueldad indiscriminada con los que los humanos mantienen a otras especies con las que comparten el planeta, bajo forma de alimento, mascota, vestimenta, entretenimiento, experimentación o explotación.
 
-En vimeo podrás ver el [documental integro](https://vimeo.com/209647801)
-Más información en la página oficial [Earthlings](https://www.nationearth.com).
+{{<vimeo 209647801>}}
+
+Más información en la página oficial de [Earthlings](https://www.nationearth.com).

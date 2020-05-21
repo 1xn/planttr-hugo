@@ -194,7 +194,7 @@
 
 <!-- END New Featured Section -->
 
-<section class="section amarillo">
+<section class="section">
 <div class="container">
     <h2>Huerto</h2>
     <div class="row masonry-container">
@@ -211,30 +211,7 @@
     </div>
   </div>
 </section>
-
-<!-- featured post -->
-<section>
-  <div class="container-fluid p-sm-0">
-    <div class="row featured-post-slider">
-      {{ range (where .Site.RegularPages "Type" "cultivo")}}
-      <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-        <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
-          <div class="card-img-overlay">
-            <div class="card-content">
-              <p class="text-uppercase">{{.Params.Categories}}</p>
-              <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-            </div>
-          </div>
-        </article>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /featured post -->
-
-<section class="hero-section">
+<section class="hero-section amarillo">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 align-self-end">

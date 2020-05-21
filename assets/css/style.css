@@ -2,10 +2,10 @@
 /* CUSTOM COLORS */
 .azul { background-color: #26547c; color:white}
 .rosa { background-color: #ef476f; color:white}
-.amarillo { background-color: #fcfcfc; color:black; border-top:7px dashed #ffd166;}
+.amarillo { background-color: #ffd166; color:black; border-top:7px dashed #0c0c0c;}
 .verde { background-color: #fcfcfc; color:white; border-top:7px dashed #06d6a0;}
 .blanco { background-color: #fcfcfc; color:black}
-.negro { background-color: #fcfcfc; color:black; border-top:7px dashed #0c0c0c; border-bottom: 7px dashed #0c0c0c; }
+.negro { background-color: #fcfcfc; color:black; border-top:7px dashed #0c0c0c;}
 a.blanco{color:red}
 img.recipe {
   vertical-align: middle;
@@ -411,10 +411,14 @@ a.text-dark:hover {
 }
 
 .section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.sectiontitle {
   padding-top: 30px;
   padding-bottom: 30px;
 }
-
 .section-sm {
   padding-top: 80px;
   padding-bottom: 80px;
