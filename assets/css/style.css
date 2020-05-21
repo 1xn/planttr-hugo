@@ -2,10 +2,10 @@
 /* CUSTOM COLORS */
 .azul { background-color: #26547c; color:white}
 .rosa { background-color: #ef476f; color:white}
-.amarillo { background-color: #ffd166; color:black}
-.verde { background-color: #06d6a0; color:white; }
+.amarillo { background-color: #fcfcfc; color:black; border-top:7px dashed #ffd166;}
+.verde { background-color: #fcfcfc; color:white; border-top:7px dashed #06d6a0;}
 .blanco { background-color: #fcfcfc; color:black}
-.negro { background-color: #0c0c0c; color:white}
+.negro { background-color: #fcfcfc; color:black; border-top:7px dashed #0c0c0c; border-bottom: 7px dashed #0c0c0c; }
 a.blanco{color:red}
 img.recipe {
   vertical-align: middle;
