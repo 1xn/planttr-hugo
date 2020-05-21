@@ -7,7 +7,7 @@ image: "images/recipes/acelgas-con-crujiente.png"
 imagecredit: klaoe
 cuisine: Española
 suitableForDiet: VeganDiet
-categories: Sauce
+categories: salsa
 yield: 4 porciones
 prepTime: 30
 cookTime: 15
