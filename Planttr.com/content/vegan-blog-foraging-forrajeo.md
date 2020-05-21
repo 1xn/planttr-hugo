@@ -3,7 +3,7 @@ title: "¿Qué es el Foraging?"
 date: 2020-05-09T14:46:10+06:00
 description: "Foraging: Forrajeo de alimentos silvestres"
 type: "ecologia"
-image: "images/featured-post/minerales-alimentacion-vegana.jpg"
+image: "images/featured-post/setas-silvestres.JPG"
 tags: ecología
   
 ---
