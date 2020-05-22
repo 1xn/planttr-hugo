@@ -7,7 +7,7 @@ image: "images/recipes/smoothie.jpg"
 imagecredit: klaoe
 cuisine: Internacional
 suitableForDiet: VeganDiet
-categories: bebidas
+categories: bebida
 yield: 2 porciones
 prepTime: 10
 cookTime: 
