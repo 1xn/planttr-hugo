@@ -28,7 +28,7 @@
         <div class="spacer"></div>
         <article class="content">
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded  mr-5 mb-4">
-          
+
           <!--if imagecredit exists display imagecredit
             else display nothing-->
 
@@ -36,13 +36,9 @@
           <div class="imagecredit">Photo by: {{ .Params.imagecredit }}</div>
           {{ else }} <div class="imagecredit"></div>
           {{ end }}
-
+          <div itemprop="description">{{ .Content }}</div>
           {{ if eq .Params.type "recipe" }}
-
-          <div itemprop="description">{{.Content}}</div>
-
           <!-- INGREDIENTS -->
-
           {{ with .Params.Ingredients }}
         <h4>Ingredientes</h4>
         <ul itemprop="ingredients">
@@ -86,7 +82,7 @@
           <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
         {{ end }}
     </div>
-        
+
       </div>
 
       {{partial "sidebar.html" . }}
