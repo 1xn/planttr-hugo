@@ -1,7 +1,8 @@
 ---
 title: "Spaghetti con champiñones, pesto de plantago y salsa de tomate"
 date: 2020-05-15T14:46:10+06:00
-description: "Spaghetti con champiñones, pesto de plantago y salsa de tomate"
+description: "
+paghetti con champiñones, pesto de plantago y salsa de tomate"
 type: "recipe"
 image: "images/recipes/spaghetti-champinones-pesto-plantago-tomate.jpeg"
 imagecredit: klaoe
@@ -38,3 +39,4 @@ directions:
 - Una vez lista, escurre la pasta y mézclala con la salsa, añadiendo perejíl picado y levadura nutricional para terminar el plato.
 tips: Unas gotitas de aceite de oliva en crudo encima del plato listo realzará el sabor del pesto.
 ---
+El [pesto de plantago]  

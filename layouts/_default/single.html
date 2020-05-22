@@ -37,9 +37,11 @@
           {{ else }} <div class="imagecredit"></div>
           {{ end }}
 
+          {{ if eq .Params.type "recipe" }}
+
           <div itemprop="description">{{.Content}}</div>
 
-          {{ if eq .Params.type "recipe" }}
+          
 
           <!-- INGREDIENTS -->
 
@@ -71,6 +73,7 @@
       </div>
 <h4>Notas</h4>
 <div itemprop="description">{{.Params.tips}}</div>
+
 <hr>
          <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
