@@ -3,7 +3,7 @@ title: "Smoothie ZLNP"
 date: 2020-05-21T14:46:10+06:00
 description: "Smoothie de platano de Canarias, naranja, limón y zanahoria"
 type: "recipe"
-image: "images/recipes/smoothie-naranja-platano-limón-zanahoria.png"
+image: "images/recipes/smoothie-naranja-platano-limon-zanahoria.png"
 imagecredit: klaoe
 cuisine: Internacional
 suitableForDiet: VeganDiet
