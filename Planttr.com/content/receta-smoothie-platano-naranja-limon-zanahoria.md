@@ -20,5 +20,5 @@ ingredients:
 - 2 zanahorias
 directions:
 - Pasa todos los ingredientes por una licuadora o batidora.
-tips: A diferencia de lo que se suele creer el zumo de naranja no pierde su valor nutritivo si no se toma enseguida, por eso puedes preparar este smoothie hasta un máximo de 12 horas antes. Recuerda de batirlo antes de consumirlo.
+tips: Debido a la consistencia de la zanahoria el smoothie podría no quedar muy fino, siempre puedes pasar el smoothie por un colador, pero te recomiendo que no lo hagas para no retirar parte de la fibra beneficial que puedan contener los pequeños trocitos de frutas y verduras.
 ---
