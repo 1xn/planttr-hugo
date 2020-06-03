@@ -17,6 +17,8 @@ categories: salsa
 tags:
   - "pesto"
   - "plantago"
+  - "pistachos"
+  - "levadura nutricional"
 ingredients:
 - 100 g hojas de plantago
 - 50 g de pistachos

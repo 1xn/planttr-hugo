@@ -13,11 +13,11 @@ prepTime: 30
 cookTime: 15
 totalTime: 45
 tags:
-  - "acelgas"
-  - "pecanas"
+  - "veganesa"
+  - "salsa"
 ingredients:
 - 
 directions:
 - 
-tips: La acelgas son una verduras de hoja que...
+tips: Recuerda que la leche vegetal de soja tiene que estar fría para que la veganesa emulsione bien.
 ---
